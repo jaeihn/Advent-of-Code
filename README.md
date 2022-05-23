@@ -4,7 +4,7 @@
 -------------
 
 
-## English Walkthrough (Links to Kaggle)
+## English Walkthroughs (Links to Kaggle)
 <table>
     <thead>
         <tr>
@@ -56,7 +56,7 @@
 ------------------
 
 
-## Korean Walkthrough (Links to Naver)
+## Korean Walkthroughs (Links to Naver)
 
 <table>
     <thead>
