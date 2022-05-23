@@ -1,1 +1,106 @@
 # Advent-of-Code
+* Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com). 
+
+-------------
+
+
+## English Walkthrough (Links to Kaggle)
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th colspan=5>Solutions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=6>2015</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://www.kaggle.com/code/jaeihn/advent-of-code-2015-day-1-solutions">1</a></td>
+            <td align="center">2</td>
+            <td align="center">3</td>
+            <td align="center">4</td>
+            <td align="center">5</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td align="center">11</td>
+            <td align="center">12</td>
+            <td align="center">13</td>
+            <td align="center">14</td>
+            <td align="center">15</td>
+        </tr>
+            <td align="center">16</td>
+            <td align="center">17</td>
+            <td align="center">18</td>
+            <td align="center">19</td>
+            <td align="center">20</td>
+        <tr>
+            <td align="center">21</td>
+            <td align="center">22</td>
+            <td align="center">23</td>
+            <td align="center">24</td>
+            <td align="center">25</td>
+        </tr>
+    </tbody>
+</table>
+
+
+------------------
+
+
+## Korean Walkthrough (Links to Naver)
+
+<table>
+    <thead>
+        <tr>
+            <th>Year</th>
+            <th colspan=5>Solutions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=6>2015</td>
+        </tr>
+        <tr>
+            <td align="center"><a href="https://blog.naver.com/z280937/222713120488">1</a></td>
+            <td align="center"><a href="https://blog.naver.com/z280937/222716407388">2</a></td>
+            <td align="center"><a href="https://blog.naver.com/z280937/222717264501">3</a></td>
+            <td align="center"><a href="https://blog.naver.com/z280937/222721803050">4</a></td>
+            <td align="center"><a href="https://blog.naver.com/z280937/222722858104">5</a></td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://blog.naver.com/z280937/222724763778">6</a></td>
+            <td align="center">7</td>
+            <td align="center">8</td>
+            <td align="center">9</td>
+            <td align="center">10</td>
+        </tr>
+        <tr>
+            <td align="center">11</td>
+            <td align="center">12</td>
+            <td align="center">13</td>
+            <td align="center">14</td>
+            <td align="center">15</td>
+        </tr>
+            <td align="center">16</td>
+            <td align="center">17</td>
+            <td align="center">18</td>
+            <td align="center">19</td>
+            <td align="center">20</td>
+        <tr>
+            <td align="center">21</td>
+            <td align="center">22</td>
+            <td align="center">23</td>
+            <td align="center">24</td>
+            <td align="center">25</td>
+        </tr>
+    </tbody>
+</table>
