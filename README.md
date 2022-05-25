@@ -19,7 +19,7 @@
         <tr>
             <td align="center"><a href="https://www.kaggle.com/code/jaeihn/advent-of-code-2015-day-1-solutions">1</a></td>
             <td align="center"><a href="https://www.kaggle.com/code/jaeihn/advent-of-code-2015-day-2-solutions">2</a></td>
-            <td align="center">3</td>
+            <td align="center"><a href="https://www.kaggle.com/code/jaeihn/advent-of-code-2015-day-3-solutions">3</a></td>
             <td align="center">4</td>
             <td align="center">5</td>
         </tr>
