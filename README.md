@@ -24,7 +24,7 @@
             <td align="center"><a href="https://www.kaggle.com/code/jaeihn/advent-of-code-2015-day-5-solutions">5</a></td>
         </tr>
         <tr>
-            <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-6-solutions"6</a></td>
+            <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-6-solutions">6</a></td>
             <td align="center">7</td>
             <td align="center">8</td>
             <td align="center">9</td>
