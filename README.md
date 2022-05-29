@@ -1,5 +1,6 @@
 # Advent-of-Code
-* Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com). 
+
+Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com) in Python. 
 
 -------------
 
