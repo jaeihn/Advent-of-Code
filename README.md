@@ -78,7 +78,7 @@
         </tr>
         <tr>
           <td align="center"><a href="https://blog.naver.com/z280937/222724763778">6</a></td>
-            <td align="center"><ahref="https://blog.naver.com/z280937/222724763778">7</a></td>
+            <td align="center"><a href="https://blog.naver.com/z280937/222724763778">7</a></td>
             <td align="center">8</td>
             <td align="center">9</td>
             <td align="center">10</td>
