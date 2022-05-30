@@ -42,4 +42,4 @@ for i in instructions:
         elif i.startswith('toggle'):
             grid[x_i:x_f+1, y_i:y_f+1] += 2
 
-print(np.sum(grid))
+print(int(np.sum(grid)))
