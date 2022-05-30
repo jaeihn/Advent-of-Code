@@ -26,7 +26,7 @@ Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com) in Pyt
         </tr>
         <tr>
             <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-6-solutions">6</a></td>
-            <td align="center">7</td>
+            <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-7-solutions">7</a></td>
             <td align="center">8</td>
             <td align="center">9</td>
             <td align="center">10</td>
