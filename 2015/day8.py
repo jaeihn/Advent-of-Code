@@ -12,7 +12,7 @@ f.close()
 code = sum([len(x) for x in lines])
 memory = sum([len(x.encode("utf-8").decode('unicode-escape'))-2 for x in lines])
 
-print(code, memory, code-memory)
+print(code-memory)
 
 # Part 2
 extended = sum([len(regex.sub('"', '"\"', repr(x))) for x in lines])
