@@ -29,7 +29,7 @@ Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com) in Pyt
             <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-7-solutions">7</a></td>
             <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-8-solutions">8</a></td>
             <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-9-solutions">9</a></td>
-            <td align="center">10</td>
+            <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-10-solutions">10</a></td>
         </tr>
         <tr>
             <td align="center">11</td>
