@@ -32,7 +32,7 @@ Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com) in Pyt
             <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-10-solutions">10</a></td>
         </tr>
         <tr>
-            <td align="center">11</td>
+            <td align="center"><a href="https://www.kaggle.com/jaeihn/advent-of-code-2015-day-11-solutions">11</a></td>
             <td align="center">12</td>
             <td align="center">13</td>
             <td align="center">14</td>
