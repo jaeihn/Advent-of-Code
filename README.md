@@ -1,6 +1,7 @@
 # Advent-of-Code
 
 Personal solutions to Eric Wastl's [Advent of Code](www.adventofcode.com) in Python. 
+
 For each year: 
 - Commented code is in solutions-python. 
 - Annotated code outlining the problem solving process is in solutions-annotated. 
